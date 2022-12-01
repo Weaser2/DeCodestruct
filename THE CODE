@@ -1,1 +1,1 @@
-javascript:(function () {var v = document.createElement('script');v.src = 'https://cdn.jsdelivr.net/gh/Browncha023/Vengeance@v1.2.0/script.min.js';document.body.appendChild(v);}())
+javascript:(function () {var v = document.createElement('script');v.src = 'https://raw.githubusercontent.com/Weaser2/DeCodestruct/main/Cool%20Code';document.body.appendChild(v);}())
